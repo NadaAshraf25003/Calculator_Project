@@ -1,6 +1,6 @@
 # 🧮 Calculator Pro
 
-A fully functional and responsive scientific calculator built using **HTML, CSS, and JavaScript**. This calculator supports both basic and advanced operations including trigonometric functions, logarithmic operations, exponentiation, factorial, and more.
+A fully functional and responsive scientific calculator built using **HTML, CSS, and JavaScript**. 
 
 
 ---
