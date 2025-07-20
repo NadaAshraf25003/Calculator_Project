@@ -11,10 +11,7 @@ A fully functional and responsive scientific calculator built using **HTML, CSS,
 ![Calculator Pro Screenshot](img/Calculator1.jpg)
 
 ---
-## 🌐 Live Demo
-[Click here to try the Calculator Pro](#) <!-- Replace with your GitHub Pages or Netlify link -->
 
----
 
 ## 📌 Features
 
