@@ -5,14 +5,6 @@ A fully functional and responsive scientific calculator built using **HTML, CSS,
 
 ---
 
-## 📷 Screenshots
-
-<!-- Add actual screenshots if available -->
-![Calculator Pro Screenshot](img/Calculator1.jpg)
-
----
-
-
 ## 📌 Features
 
 - ✅ Basic arithmetic: `+`, `-`, `×`, `÷`
